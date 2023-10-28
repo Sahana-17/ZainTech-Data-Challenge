@@ -2,6 +2,6 @@
 
 Group Members : 
 
-Noella Abraham
-Ismail Habibi
-Sahana Muralikrishnan 
+- Noella Abraham
+- Ismail Habibi
+- Sahana Muralikrishnan 
